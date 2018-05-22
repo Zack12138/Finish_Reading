@@ -128,37 +128,29 @@
 				<div class="nav-list site-nav fl">
 					<ul>
 						<li class="site"><a class="pin-logo" href="//www.qidian.com"
-							data-eid="qd_A43"><span></span>
-						</a>
+							data-eid="qd_A43"><span></span> </a>
 							<div class="dropdown">
 								<a href="https://www.qdmm.com" target="" data-eid="qd_A44">起点女生网</a>
 								<a href="http://chuangshi.qq.com" target="" data-eid="qd_A45">创世中文网</a>
 								<a href="http://yunqi.qq.com" target="" data-eid="qd_A46">云起书院</a>
-							</div></li>
+							</div>
+						</li>
 						<li><a href="//www.qidian.com/xuanhuan" target=""
-							data-eid="qd_A47">玄幻</a>
-						</li>
+							data-eid="qd_A47">玄幻</a></li>
 						<li><a href="//www.qidian.com/dushi" target=""
-							data-eid="qd_A48">都市</a>
-						</li>
+							data-eid="qd_A48">都市</a></li>
 						<li><a href="//www.qidian.com/xianxia" target=""
-							data-eid="qd_A49">仙侠</a>
-						</li>
+							data-eid="qd_A49">仙侠</a></li>
 						<li><a href="//www.qidian.com/kehuan" target=""
-							data-eid="qd_A50">科幻</a>
-						</li>
+							data-eid="qd_A50">科幻</a></li>
 						<li><a href="//www.qidian.com/youxi" target=""
-							data-eid="qd_A56">游戏</a>
-						</li>
+							data-eid="qd_A56">游戏</a></li>
 						<li><a href="//www.qidian.com/lishi" target=""
-							data-eid="qd_A52">历史</a>
-						</li>
+							data-eid="qd_A52">历史</a></li>
 						<li><a href="//www.qidian.com/rank" target="_blank"
-							data-eid="qd_A53">排行</a>
-						</li>
+							data-eid="qd_A53">排行</a></li>
 						<li class="more"><a href="javascript:" id="top-nav-more"
-							target="" data-eid="qd_A54">更多<span></span>
-						</a>
+							target="" data-eid="qd_A54">更多<span></span> </a>
 							<div class="dropdown">
 								<a href="//www.qidian.com/all" target="_blank"
 									data-eid="qd_A169">全部作品</a> <a href="//www.qidian.com/2cy"
@@ -170,7 +162,8 @@
 								<a href="//www.qidian.com/xianshi" target="" data-eid="qd_A60">现实</a>
 								<a href="//www.qidian.com/tiyu" target="" data-eid="qd_A61">体育</a>
 								<a href="//www.qidian.com/duanpian" target="" data-eid="qd_A196">短篇</a>
-							</div></li>
+							</div>
+						</li>
 					</ul>
 				</div>
 				<div class="nav-list min-user fr">
@@ -183,16 +176,17 @@
 									class="pin-input hide" type="text" name="kw"
 									placeholder="天下第一医馆"> <input class="submit-input"
 									type="submit" id="topSearchSubmit" data-eid="qd_A62">
-							</form></li>
+							</form>
+						</li>
 						<li class="line"></li>
 						<li class="sign-out"><a id="pin-login" href="javascript:"
 							data-eid="qd_A64">登录</a> <a class="reg"
 							href="//passport.qidian.com/reg.html?appid=10&areaid=1&target=iframe&ticket=1&auto=1&autotime=30&returnUrl=https%3A%2F%2Fwww.qidian.com"
-							target="_blank">注册</a></li>
+							target="_blank">注册</a>
+						</li>
 						<li class="sign-in hidden"><a
 							href="//me.qidian.com/Index.aspx" target="_blank"
-							data-eid="qd_A65"><i id="nav-user-name"></i><span></span>
-						</a>
+							data-eid="qd_A65"><i id="nav-user-name"></i><span></span> </a>
 							<div class="dropdown">
 								<a href="//me.qidian.com/msg/lists.aspx?page=1" target="_blank"
 									data-eid="qd_A66">消息(<i id="top-msg">0</i>)</a> <a
@@ -202,14 +196,13 @@
 									href="//www.qidian.com/help/kf" target="_blank"
 									data-eid="qd_A69">客服中心</a> <a id="exit" href="javascript:"
 									data-eid="qd_A70">退出</a>
-							</div></li>
+							</div>
+						</li>
 						<li class="line"></li>
 						<li class="book-shelf" id="top-book-shelf"><a
 							href="//me.qidian.com/bookCase/bookCase.aspx" target="_blank"
 							data-eid="qd_A63"><em class="iconfont">&#xe60c;</em><i>我的书架
-							</i>
-						</a>
-						</li>
+							</i> </a></li>
 					</ul>
 				</div>
 			</div>
@@ -258,8 +251,7 @@
 						data-eid="qd_G09" data-bid="3499569"
 						data-firstchapterjumpurl="//read.qidian.com/chapter/pkNRSbuSa1Y1/758M0UKPmwEex0RJOkJclQ2"><img
 						src="//qidian.qpic.cn/qdbimg/349573/3499569/180
-">
-					</a>
+"> </a>
 				</div>
 
 				<div class="book-info ">
@@ -283,7 +275,7 @@
 					<p class="intro">修仙觅长生，热血任逍遥，踏莲曳波涤剑骨，凭虚御风塑圣魂！</p>
 					<p>
 						<em>
-						<style>
+							<style>
 @font-face {
 	font-family: mDXDLVFU;
 	src: url('https://qidian.gtimg.com/qd_anti_spider/mDXDLVFU.eot?')
@@ -300,9 +292,7 @@
 	color: inherit !important;
 	vertical-align: initial !important;
 }
-</style>
-							<span class="mDXDLVFU">&#100091;&#100089;&#100087;&#100094;</span>
-						</em><cite>万字</cite><i>|</i><em><style>
+</style> <span class="mDXDLVFU">&#100091;&#100089;&#100087;&#100094;</span> </em><cite>万字</cite><i>|</i><em><style>
 @font-face {
 	font-family: mDXDLVFU;
 	src: url('https://qidian.gtimg.com/qd_anti_spider/mDXDLVFU.eot?')
@@ -319,9 +309,7 @@
 	color: inherit !important;
 	vertical-align: initial !important;
 }
-</style>
-							<span class="mDXDLVFU">&#100093;&#100092;</span>
-						</em><cite>总点击<span>&#183;</span>会员周点击</cite><i>|</i><em><style>
+</style> <span class="mDXDLVFU">&#100093;&#100092;</span> </em><cite>总点击<span>&#183;</span>会员周点击</cite><i>|</i><em><style>
 @font-face {
 	font-family: mDXDLVFU;
 	src: url('https://qidian.gtimg.com/qd_anti_spider/mDXDLVFU.eot?')
@@ -338,9 +326,7 @@
 	color: inherit !important;
 	vertical-align: initial !important;
 }
-</style>
-							<span class="mDXDLVFU">&#100092;</span>
-						</em><cite>总推荐<span>&#183;</span>周</cite>
+</style> <span class="mDXDLVFU">&#100092;</span> </em><cite>总推荐<span>&#183;</span>周</cite>
 					</p>
 
 					<p>
@@ -367,8 +353,7 @@
 						</div>
 						<div class="j_getData hidden">
 							<h4 id="j_bookScore">
-								<span><cite id="score1">0</cite><em>.</em>
-								</span><i id="score2">0</i>
+								<span><cite id="score1">0</cite><em>.</em> </span><i id="score2">0</i>
 							</h4>
 							<p id="j_userCount">
 								<span></span>人评价
@@ -411,22 +396,15 @@
 				<div class="nav-wrap fl">
 					<ul>
 						<li class="act"><a class="lang" id="j-bookInfoPage"
-							href="javascript:" data-eid="qd_G15">作品信息</a>
-						</li>
+							href="javascript:" data-eid="qd_G15">作品信息</a></li>
 						<li class="j_catalog_block"><a class="lang"
-							href="javascript:" id="j_catalogPage" data-eid="qd_G16">目录<i><span
-									id="J-catalogCount">(4章)</span>
-							</i>
-						</a>
-						</li>
+							href="info-catalogue.jsp" id="j_catalogPage" data-eid="qd_G16">目录<i><span
+									id="J-catalogCount">(4章)</span> </i> </a></li>
 
 						<li class="j_discussion_block"><a class="lang"
 							href="//forum.qidian.com/NewForum/List.aspx?BookId=3499569"
 							target="_blank" data-eid="qd_G17">作品讨论<i><span
-									id="J-discusCount"></span>
-							</i>
-						</a>
-						</li>
+									id="J-discusCount"></span> </i> </a></li>
 
 					</ul>
 				</div>
@@ -436,8 +414,7 @@
 				<div class="go-top">
 					<div class="go-top-wrap">
 						<a href="#" class="icon-go-top"><em class="iconfont"
-							data-eid="qd_G72">&#xe66b;</em>
-						</a>
+							data-eid="qd_G72">&#xe66b;</em> </a>
 					</div>
 				</div>
 
@@ -459,25 +436,29 @@
 								href="//read.qidian.com/chapter/pkNRSbuSa1Y1/758M0UKPmwEex0RJOkJclQ2"
 								target="_blank" data-eid="qd_G55"
 								data-cid="//read.qidian.com/chapter/pkNRSbuSa1Y1/758M0UKPmwEex0RJOkJclQ2"
-								title="首发时间：2015-05-31 14:46:38 章节字数：2810">第一章 小城有少年</a></li>
+								title="首发时间：2015-05-31 14:46:38 章节字数：2810">第一章 小城有少年</a>
+							</li>
 
 							<li data-rid="2"><a
 								href="//read.qidian.com/chapter/pkNRSbuSa1Y1/MqaA3LdfXyIex0RJOkJclQ2"
 								target="_blank" data-eid="qd_G55"
 								data-cid="//read.qidian.com/chapter/pkNRSbuSa1Y1/MqaA3LdfXyIex0RJOkJclQ2"
-								title="首发时间：2015-06-01 12:34:46 章节字数：2641">第二章 大雨入小巷 杀人剑无形</a></li>
+								title="首发时间：2015-06-01 12:34:46 章节字数：2641">第二章 大雨入小巷 杀人剑无形</a>
+							</li>
 
 							<li data-rid="3"><a
 								href="//read.qidian.com/chapter/pkNRSbuSa1Y1/sk8A9v40MGAex0RJOkJclQ2"
 								target="_blank" data-eid="qd_G55"
 								data-cid="//read.qidian.com/chapter/pkNRSbuSa1Y1/sk8A9v40MGAex0RJOkJclQ2"
-								title="首发时间：2015-06-03 13:47:01 章节字数：2453">第三章 一方白手帕</a></li>
+								title="首发时间：2015-06-03 13:47:01 章节字数：2453">第三章 一方白手帕</a>
+							</li>
 
 							<li data-rid="4"><a
 								href="//read.qidian.com/chapter/pkNRSbuSa1Y1/z24zN-1kjNcex0RJOkJclQ2"
 								target="_blank" data-eid="qd_G55"
 								data-cid="//read.qidian.com/chapter/pkNRSbuSa1Y1/z24zN-1kjNcex0RJOkJclQ2"
-								title="首发时间：2015-06-08 10:49:41 章节字数：3070">第四章 夜话修行</a></li>
+								title="首发时间：2015-06-08 10:49:41 章节字数：3070">第四章 夜话修行</a>
+							</li>
 
 						</ul>
 					</div>
@@ -510,7 +491,8 @@
 												class="time">2015-06-08</em>
 										</p>
 										<p class="tag-wrap mt10"></p>
-									</div></li>
+									</div>
+								</li>
 							</ul>
 						</div>
 					</div>
@@ -523,8 +505,7 @@
 								target="_blank" style="display: block" data-eid="qd_G102"
 								data-qd_dd_p1="1"><img
 								src="//qidian.qpic.cn/qidian_common/349573/d7719b08fca20dc60662ecff6019cdde/0"><span
-								class="op-tag"></span>
-							</a>
+								class="op-tag"></span> </a>
 
 						</div>
 						<div class="right-game">
@@ -534,8 +515,7 @@
 								target="_blank" style="display: block" data-eid="qd_G103"
 								data-qd_dd_p1="1"><img
 								src="//qidian.qpic.cn/qidian_common/349573/74268eb98b32af14b436224930c4f12a/0"><span
-								class="op-tag"></span>
-							</a>
+								class="op-tag"></span> </a>
 
 						</div>
 					</div>
@@ -558,18 +538,463 @@
 										data-order="0" data-eid="qd_G32">最新</a><span class="grey">|</span>
 								</div>
 							</div>
-							<div class="userCommentWrap" id="userCommentWrap" data-l1="7">
-								<div class="la-ball-pulse">
-									<span></span> <span></span> <span></span>
-								</div>
+							<div class="userCommentWrap" id="userCommentWrap" data-l1="7"
+								style="display: block;">
+
 
 								<div class="my-comment-wrap" id="myCommentWrap"></div>
 
-							</div>
-							<div class="user-discuss" id="userDiscuss" data-l1="8">
-								<div class="la-ball-pulse">
-									<span></span> <span></span> <span></span>
+								<!-- start 书友评价 -->
+								<div id="commentList">
+									<!-- start 热门评论数据 -->
+									<div class="comment-list">
+
+										<!-- start 有数据状态 -->
+										<dl>
+
+											<dd>
+												<div class="user-photo">
+													<a href="//me.qidian.com/friendIndex.aspx?id=216105795"
+														target="_blank"> <img
+														src="//facepic.qidian.com/qd_face/349573/5564228/50">
+														<span class="user-level lv0"></span> </a>
+												</div>
+												<div class="comment-info">
+
+													<h6>
+														<a class="zan " href="javascript:" data-rateid="1259827"
+															data-islike="0" data-eid="qd_G112"><b>0</b><em
+															class="iconfont"></em>
+														</a><a class="blue"
+															href="//me.qidian.com/friendIndex.aspx?id=216105795"
+															target="_blank">杀戮Ψ德苍生</a><i>评</i><span
+															class="score-min star5"></span>
+													</h6>
+
+													<p class="normal">
+														<cite class="iconfont blue j_unfold" title="展开评论"></cite>
+													</p>
+													<p>2018-05-20 22:21</p>
+												</div>
+											</dd>
+
+											<dd>
+												<div class="user-photo">
+													<a href="//me.qidian.com/friendIndex.aspx?id=227537810"
+														target="_blank"> <img
+														src="//facepic.qidian.com/qd_face/349573/5091799/50">
+														<span class="user-level lv0"></span> </a>
+												</div>
+												<div class="comment-info">
+
+													<h6>
+														<a class="zan " href="javascript:" data-rateid="1255850"
+															data-islike="0" data-eid="qd_G112"><b>1</b><em
+															class="iconfont"></em>
+														</a><a class="blue"
+															href="//me.qidian.com/friendIndex.aspx?id=227537810"
+															target="_blank">灭亡的咸鱼</a><i>评</i><span
+															class="score-min star5"></span>
+													</h6>
+
+													<p class="normal">
+														<cite class="iconfont blue j_unfold" title="展开评论"></cite>
+													</p>
+													<p>2018-05-13 17:43</p>
+												</div>
+											</dd>
+
+											<dd>
+												<div class="user-photo">
+													<a href="//me.qidian.com/friendIndex.aspx?id=310598797"
+														target="_blank"> <img
+														src="//facepic.qidian.com/qd_face/349573/0/50"> <span
+														class="user-level lv0"></span> </a>
+												</div>
+												<div class="comment-info">
+
+													<h6>
+														<a class="zan " href="javascript:" data-rateid="1254012"
+															data-islike="0" data-eid="qd_G112"><b>1</b><em
+															class="iconfont"></em>
+														</a><a class="blue"
+															href="//me.qidian.com/friendIndex.aspx?id=310598797"
+															target="_blank">书友20171113185318115</a><i>评</i><span
+															class="score-min star5"></span>
+													</h6>
+
+													<p class="normal">
+														<cite class="iconfont blue j_unfold" title="展开评论"></cite>
+													</p>
+													<p>2018-05-10 11:35</p>
+												</div>
+											</dd>
+
+											<dd>
+												<div class="user-photo">
+													<a href="//me.qidian.com/friendIndex.aspx?id=106041032"
+														target="_blank"> <img
+														src="//facepic.qidian.com/qd_face/349573/5738672/50">
+														<span class="user-level lv0"></span> </a>
+												</div>
+												<div class="comment-info">
+
+													<h6>
+														<a class="zan " href="javascript:" data-rateid="1253708"
+															data-islike="0" data-eid="qd_G112"><b>1</b><em
+															class="iconfont"></em>
+														</a><a class="blue"
+															href="//me.qidian.com/friendIndex.aspx?id=106041032"
+															target="_blank">万类霜天竟自由</a><i>评</i><span
+															class="score-min star5"></span>
+													</h6>
+
+													<p class="normal">
+														<cite class="iconfont blue j_unfold" title="展开评论"></cite>
+													</p>
+													<p>2018-05-09 20:03</p>
+												</div>
+											</dd>
+
+											<dd>
+												<div class="user-photo">
+													<a href="//me.qidian.com/friendIndex.aspx?id=212759353"
+														target="_blank"> <img
+														src="//facepic.qidian.com/qd_face/349573/122/50"> <span
+														class="user-level lv0"></span> </a>
+												</div>
+												<div class="comment-info">
+
+													<h6>
+														<a class="zan " href="javascript:" data-rateid="1256590"
+															data-islike="0" data-eid="qd_G112"><b>0</b><em
+															class="iconfont"></em>
+														</a><a class="blue"
+															href="//me.qidian.com/friendIndex.aspx?id=212759353"
+															target="_blank">书友151006194112708</a><i>评</i><span
+															class="score-min star4"></span>
+													</h6>
+
+													<p class="normal">
+														<cite class="iconfont blue j_unfold" title="展开评论"></cite>
+													</p>
+													<p>2018-05-15 01:00</p>
+												</div>
+											</dd>
+
+											<dd>
+												<div class="user-photo">
+													<a href="//me.qidian.com/friendIndex.aspx?id=138618276"
+														target="_blank"> <img
+														src="//facepic.qidian.com/qd_face/349573/1/50"> <span
+														class="user-level lv0"></span> </a>
+												</div>
+												<div class="comment-info">
+
+													<h6>
+														<a class="zan " href="javascript:" data-rateid="1255580"
+															data-islike="0" data-eid="qd_G112"><b>0</b><em
+															class="iconfont"></em>
+														</a><a class="blue"
+															href="//me.qidian.com/friendIndex.aspx?id=138618276"
+															target="_blank">浪漫走世界</a><i>评</i><span
+															class="score-min star5"></span>
+													</h6>
+
+													<p class="normal">
+														<cite class="iconfont blue j_unfold" title="展开评论"></cite>
+													</p>
+													<p>2018-05-13 09:11</p>
+												</div>
+											</dd>
+
+											<dd>
+												<div class="user-photo">
+													<a href="//me.qidian.com/friendIndex.aspx?id=214269984"
+														target="_blank"> <img
+														src="//facepic.qidian.com/qd_face/349573/2068226/50">
+														<span class="user-level lv1"></span> </a>
+												</div>
+												<div class="comment-info">
+
+													<h6>
+														<a class="zan " href="javascript:" data-rateid="1253581"
+															data-islike="0" data-eid="qd_G112"><b>0</b><em
+															class="iconfont"></em>
+														</a><a class="blue"
+															href="//me.qidian.com/friendIndex.aspx?id=214269984"
+															target="_blank">虛瀾</a><i>评</i><span
+															class="score-min star5"></span>
+													</h6>
+
+													<p class="normal">
+														<cite class="iconfont blue j_unfold" title="展开评论"></cite>
+													</p>
+													<p>2018-05-09 16:13</p>
+												</div>
+											</dd>
+
+											<dd>
+												<div class="user-photo">
+													<a href="//me.qidian.com/friendIndex.aspx?id=229698257"
+														target="_blank"> <img
+														src="//facepic.qidian.com/qd_face/349573/0/50"> <span
+														class="user-level lv0"></span> </a>
+												</div>
+												<div class="comment-info">
+
+													<h6>
+														<a class="zan " href="javascript:" data-rateid="1252683"
+															data-islike="0" data-eid="qd_G112"><b>0</b><em
+															class="iconfont"></em>
+														</a><a class="blue"
+															href="//me.qidian.com/friendIndex.aspx?id=229698257"
+															target="_blank">书友20170217121649723</a><i>评</i><span
+															class="score-min star5"></span>
+													</h6>
+
+													<p class="normal">
+														<cite class="iconfont blue j_unfold" title="展开评论"></cite>
+													</p>
+													<p>2018-05-07 23:44</p>
+												</div>
+											</dd>
+
+											<dd>
+												<div class="user-photo">
+													<a href="//me.qidian.com/friendIndex.aspx?id=201319194"
+														target="_blank"> <img
+														src="//facepic.qidian.com/qd_face/349573/3326300/50">
+														<span class="user-level lv6"></span> </a>
+												</div>
+												<div class="comment-info">
+
+													<h6>
+														<a class="zan " href="javascript:" data-rateid="1246839"
+															data-islike="0" data-eid="qd_G112"><b>0</b><em
+															class="iconfont"></em>
+														</a><a class="blue"
+															href="//me.qidian.com/friendIndex.aspx?id=201319194"
+															target="_blank">言丶初</a><i>评</i><span
+															class="score-min star5"></span>
+													</h6>
+
+													<p class="normal">
+														<cite class="iconfont blue j_unfold" title="展开评论"></cite>
+													</p>
+													<p>2018-04-28 01:24</p>
+												</div>
+											</dd>
+
+											<dd>
+												<div class="user-photo">
+													<a href="//me.qidian.com/friendIndex.aspx?id=3588096"
+														target="_blank"> <img
+														src="//facepic.qidian.com/qd_face/349573/3143495/50">
+														<span class="user-level lv0"></span> </a>
+												</div>
+												<div class="comment-info">
+
+													<h6>
+														<a class="zan " href="javascript:" data-rateid="1247786"
+															data-islike="0" data-eid="qd_G112"><b>0</b><em
+															class="iconfont"></em>
+														</a><a class="blue"
+															href="//me.qidian.com/friendIndex.aspx?id=3588096"
+															target="_blank">弓无影</a><i>评</i><span
+															class="score-min star5"></span>
+													</h6>
+
+													<p class="normal">
+														<cite class="iconfont blue j_unfold" title="展开评论"></cite>
+													</p>
+													<p>2018-04-29 18:29</p>
+												</div>
+											</dd>
+
+											<dd>
+												<div class="user-photo">
+													<a href="//me.qidian.com/friendIndex.aspx?id=302545642"
+														target="_blank"> <img
+														src="//facepic.qidian.com/qd_face/349573/258/50"> <span
+														class="user-level lv0"></span> </a>
+												</div>
+												<div class="comment-info">
+
+													<h6>
+														<a class="zan " href="javascript:" data-rateid="1247251"
+															data-islike="0" data-eid="qd_G112"><b>0</b><em
+															class="iconfont"></em>
+														</a><a class="blue"
+															href="//me.qidian.com/friendIndex.aspx?id=302545642"
+															target="_blank">千万子孙在手</a><i>评</i><span
+															class="score-min star5"></span>
+													</h6>
+
+													<p class="normal">
+														<cite class="iconfont blue j_unfold" title="展开评论"></cite>
+													</p>
+													<p>2018-04-28 20:12</p>
+												</div>
+											</dd>
+
+											<dd>
+												<div class="user-photo">
+													<a href="//me.qidian.com/friendIndex.aspx?id=210935042"
+														target="_blank"> <img
+														src="//facepic.qidian.com/qd_face/349573/122/50"> <span
+														class="user-level lv0"></span> </a>
+												</div>
+												<div class="comment-info">
+
+													<h6>
+														<a class="zan " href="javascript:" data-rateid="1247155"
+															data-islike="0" data-eid="qd_G112"><b>0</b><em
+															class="iconfont"></em>
+														</a><a class="blue"
+															href="//me.qidian.com/friendIndex.aspx?id=210935042"
+															target="_blank">画中仙？树中魔</a><i>评</i><span
+															class="score-min star5"></span>
+													</h6>
+
+													<p class="normal">
+														<cite class="iconfont blue j_unfold" title="展开评论"></cite>
+													</p>
+													<p>2018-04-28 17:25</p>
+												</div>
+											</dd>
+
+											<dd>
+												<div class="user-photo">
+													<a href="//me.qidian.com/friendIndex.aspx?id=224851737"
+														target="_blank"> <img
+														src="//facepic.qidian.com/qd_face/349573/1/50"> <span
+														class="user-level lv0"></span> </a>
+												</div>
+												<div class="comment-info">
+
+													<h6>
+														<a class="zan " href="javascript:" data-rateid="1247050"
+															data-islike="0" data-eid="qd_G112"><b>0</b><em
+															class="iconfont"></em>
+														</a><a class="blue"
+															href="//me.qidian.com/friendIndex.aspx?id=224851737"
+															target="_blank">书友161027113623439</a><i>评</i><span
+															class="score-min star5"></span>
+													</h6>
+
+													<p class="normal">
+														<cite class="iconfont blue j_unfold" title="展开评论"></cite>
+													</p>
+													<p>2018-04-28 14:33</p>
+												</div>
+											</dd>
+
+											<dd>
+												<div class="user-photo">
+													<a href="//me.qidian.com/friendIndex.aspx?id=314459334"
+														target="_blank"> <img
+														src="//facepic.qidian.com/qd_face/349573/0/50"> <span
+														class="user-level lv1"></span> </a>
+												</div>
+												<div class="comment-info">
+
+													<h6>
+														<a class="zan " href="javascript:" data-rateid="1246127"
+															data-islike="0" data-eid="qd_G112"><b>0</b><em
+															class="iconfont"></em>
+														</a><a class="blue"
+															href="//me.qidian.com/friendIndex.aspx?id=314459334"
+															target="_blank">咴色心情</a><i>评</i><span
+															class="score-min star5"></span>
+													</h6>
+
+													<p class="normal">
+														<cite class="iconfont blue j_unfold" title="展开评论"></cite>
+													</p>
+													<p>2018-04-26 21:19</p>
+												</div>
+											</dd>
+
+											<dd>
+												<div class="user-photo">
+													<a href="//me.qidian.com/friendIndex.aspx?id=229650145"
+														target="_blank"> <img
+														src="//facepic.qidian.com/qd_face/349573/0/50"> <span
+														class="user-level lv0"></span> </a>
+												</div>
+												<div class="comment-info">
+
+													<h6>
+														<a class="zan " href="javascript:" data-rateid="951763"
+															data-islike="0" data-eid="qd_G112"><b>0</b><em
+															class="iconfont"></em>
+														</a><a class="blue"
+															href="//me.qidian.com/friendIndex.aspx?id=229650145"
+															target="_blank">我就在这里啊</a><i>评</i><span
+															class="score-min star5"></span>
+													</h6>
+
+													<p class="normal">
+														<cite class="iconfont blue j_unfold" title="展开评论"></cite>
+													</p>
+													<p>2018-04-24 00:42</p>
+												</div>
+											</dd>
+
+										</dl>
+										<!-- end 有数据状态 -->
+
+										<!-- start 热门分页 -->
+										<div class="page-box cf">
+											<div class="pagination fr" data-eid="qd_G34"
+												id="page-container" data-pagemax="15" data-page="1">
+												<div class="lbf-pagination">
+													<ul class="lbf-pagination-item-list">
+														<li class="lbf-pagination-item"><a
+															href="javascript:;"
+															class="lbf-pagination-prev lbf-pagination-disabled">&lt;</a>
+														</li>
+														<li class="lbf-pagination-item"><a data-page="1"
+															href="javascript:;"
+															class="lbf-pagination-page  lbf-pagination-current">1</a>
+														</li>
+														<li class="lbf-pagination-item"><a data-page="2"
+															href="javascript:;" class="lbf-pagination-page  ">2</a>
+														</li>
+														<li class="lbf-pagination-item"><a data-page="3"
+															href="javascript:;" class="lbf-pagination-page  ">3</a>
+														</li>
+														<li class="lbf-pagination-item"><a data-page="4"
+															href="javascript:;" class="lbf-pagination-page  ">4</a>
+														</li>
+														<li class="lbf-pagination-item"><a data-page="5"
+															href="javascript:;" class="lbf-pagination-page  ">5</a>
+														</li>
+														<li class="lbf-pagination-item"><span
+															class="lbf-pagination-ellipsis">...</span>
+														</li>
+														<li class="lbf-pagination-item"><a data-page="15"
+															href="javascript:;" class="lbf-pagination-page  ">15</a>
+														</li>
+														<li class="lbf-pagination-item"><a
+															href="javascript:;" class="lbf-pagination-next ">&gt;</a>
+														</li>
+													</ul>
+													<div class="lbf-pagination-jump">
+														<input type="text" class="lbf-pagination-input" value="1"><a
+															href="javascript:;" class="lbf-pagination-go">GO</a>
+													</div>
+												</div>
+											</div>
+										</div>
+										<!-- end 热门分页 -->
+
+									</div>
+									<!-- end 热门评论数据 -->
+
 								</div>
+								<!-- end 书友评价 -->
 							</div>
 						</div>
 					</div>
@@ -590,15 +1015,16 @@
 									</a><strong><a class="name"
 											href="//book.qidian.com/info/1011599155" target="_blank"
 											data-eid="qd_G51" data-bid="1011599155" title="太玄如梦">太玄如梦</a>
-									</strong></li>
+									</strong>
+									</li>
 
 									<li data-rid="2"><a class="channel"
 										href="//www.qidian.com/all?chanId=22&amp;subCateId=18"
 										target="_blank" data-eid="qd_G52"><em>「</em>修真文明<em>」</em>
 									</a><strong><a class="name"
 											href="//book.qidian.com/info/1011932959" target="_blank"
-											data-eid="qd_G51" data-bid="1011932959" title="大仙官">大仙官</a>
-									</strong></li>
+											data-eid="qd_G51" data-bid="1011932959" title="大仙官">大仙官</a> </strong>
+									</li>
 
 									<li data-rid="3"><a class="channel"
 										href="//www.qidian.com/all?chanId=22&amp;subCateId=44"
@@ -606,7 +1032,8 @@
 									</a><strong><a class="name"
 											href="//book.qidian.com/info/1010685009" target="_blank"
 											data-eid="qd_G51" data-bid="1010685009" title="极斗诸天">极斗诸天</a>
-									</strong></li>
+									</strong>
+									</li>
 
 									<li data-rid="4"><a class="channel"
 										href="//www.qidian.com/all?chanId=22&amp;subCateId=20101"
@@ -614,7 +1041,8 @@
 									</a><strong><a class="name"
 											href="//book.qidian.com/info/1011889209" target="_blank"
 											data-eid="qd_G51" data-bid="1011889209" title="河伯证道">河伯证道</a>
-									</strong></li>
+									</strong>
+									</li>
 
 									<li data-rid="5"><a class="channel"
 										href="//www.qidian.com/all?chanId=22&amp;subCateId=207"
@@ -622,7 +1050,8 @@
 									</a><strong><a class="name"
 											href="//book.qidian.com/info/1011651763" target="_blank"
 											data-eid="qd_G51" data-bid="1011651763" title="仙道第一">仙道第一</a>
-									</strong></li>
+									</strong>
+									</li>
 
 									<li data-rid="6"><a class="channel"
 										href="//www.qidian.com/all?chanId=22&amp;subCateId=207"
@@ -630,7 +1059,8 @@
 									</a><strong><a class="name"
 											href="//book.qidian.com/info/1011882674" target="_blank"
 											data-eid="qd_G51" data-bid="1011882674" title="重生东游记">重生东游记</a>
-									</strong></li>
+									</strong>
+									</li>
 
 									<li data-rid="7"><a class="channel"
 										href="//www.qidian.com/all?chanId=22&amp;subCateId=44"
@@ -638,7 +1068,8 @@
 									</a><strong><a class="name"
 											href="//book.qidian.com/info/1011994388" target="_blank"
 											data-eid="qd_G51" data-bid="1011994388" title="史上最牛魔头">史上最牛魔头</a>
-									</strong></li>
+									</strong>
+									</li>
 
 									<li data-rid="8"><a class="channel"
 										href="//www.qidian.com/all?chanId=22&amp;subCateId=207"
@@ -646,15 +1077,16 @@
 									</a><strong><a class="name"
 											href="//book.qidian.com/info/1011721346" target="_blank"
 											data-eid="qd_G51" data-bid="1011721346" title="洪荒之准提重生">洪荒之准提重生</a>
-									</strong></li>
+									</strong>
+									</li>
 
 									<li data-rid="9"><a class="channel"
 										href="//www.qidian.com/all?chanId=22&amp;subCateId=44"
 										target="_blank" data-eid="qd_G52"><em>「</em>幻想修仙<em>」</em>
 									</a><strong><a class="name"
 											href="//book.qidian.com/info/1011548472" target="_blank"
-											data-eid="qd_G51" data-bid="1011548472" title="仙房">仙房</a>
-									</strong></li>
+											data-eid="qd_G51" data-bid="1011548472" title="仙房">仙房</a> </strong>
+									</li>
 
 									<li data-rid="10"><a class="channel"
 										href="//www.qidian.com/all?chanId=22&amp;subCateId=207"
@@ -662,7 +1094,8 @@
 									</a><strong><a class="name"
 											href="//book.qidian.com/info/1011681256" target="_blank"
 											data-eid="qd_G51" data-bid="1011681256" title="聊斋崛起">聊斋崛起</a>
-									</strong></li>
+									</strong>
+									</li>
 								</ul>
 							</div>
 						</div>
@@ -673,8 +1106,7 @@
 							target="_blank" style="display: block" data-eid="qd_G105"
 							data-qd_dd_p1="1"><img
 							src="//qidian.qpic.cn/qidian_common/349573/69ea443e79f0058bb0626a44c5b50c5a/0"><span
-							class="op-tag"></span>
-						</a>
+							class="op-tag"></span> </a>
 
 					</div>
 				</div>
