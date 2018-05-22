@@ -91,6 +91,8 @@
         img.src = url;
     };
 </script>
+<script type="text/javascript" src="../js/jquery-3.3.1.min.js"></script>
+<script type="text/javascript" src="../js/function.js"></script>
 
 <link data-ignore="true" rel="shortcut icon" type="image/x-icon"
 	href="//qidian.gtimg.com/qd/favicon/qd_icon.c443c.ico">
@@ -280,7 +282,8 @@
 
 					<p class="intro">修仙觅长生，热血任逍遥，踏莲曳波涤剑骨，凭虚御风塑圣魂！</p>
 					<p>
-						<em><style>
+						<em>
+						<style>
 @font-face {
 	font-family: mDXDLVFU;
 	src: url('https://qidian.gtimg.com/qd_anti_spider/mDXDLVFU.eot?')
@@ -490,41 +493,12 @@
 						<cite class="icon-pin"></cite>
 						<div class="book-intro">
 							<p>
-
 								小城医馆的淳朴少年，立誓要做天下第一女捕快的少女，算天算地从不算命的算命先生。我们的故事就从这里开始！ <br>
 								新人新书，请多支持，让我们一起将属于我们自己的故事讲完。来人呀，看茶！ <br> 最后，拜谢，请多多支持！
-
 							</p>
 						</div>
 						<div class="book-state" data-l1="4">
 							<ul>
-
-
-								<li><b>作者自定义标签</b>
-									<div class="detail">
-										<p class="tag-wrap" data-l1="4">
-
-
-											<a class="tags" href="//www.qidian.com/all?tag=轻松"
-												target="_blank" data-eid="qd_G70">轻松</a>
-
-
-										</p>
-									</div></li>
-
-
-
-								<li class="honor"><b>荣誉动态</b>
-									<div class="detail">
-										<em class="null">暂无动态，打赏投票可支持作家</em>
-										<p>
-
-											<a class="blue" href="//book.qidian.com/honor/3499569"
-												target="_blank">荣誉殿堂</a>
-										</p>
-									</div></li>
-
-
 								<li class="update"><b>最近更新</b>
 									<div class="detail">
 										<p class="cf">
@@ -565,107 +539,6 @@
 
 						</div>
 					</div>
-
-
-					<div class="like-more mb30 cf" data-l1="6">
-						<h3 class="lang">喜欢这本书的人还喜欢</h3>
-						<div class="like-more-list">
-							<ul class="cf">
-
-								<li data-rid="1">
-									<div class="book-img" title="龙战星野">
-										<a href="//book.qidian.com/info/4935" target="_blank"
-											data-eid="qd_G30" data-bid="4935"><img class="lazy"
-											src="//qidian.gtimg.com/qd/images/common/default_book.5968b.png"
-											data-original="//qidian.qpic.cn/qdbimg/349573/4935/90"
-											alt="龙战星野">
-										</a>
-									</div>
-									<h4>
-										<a href="//book.qidian.com/info/4935" target="_blank"
-											title="龙战星野" data-eid="qd_G29" data-bid="4935">龙战星野</a>
-									</h4>
-									<p>83%的用户读过</p></li>
-
-								<li data-rid="2">
-									<div class="book-img" title="道缘儒仙">
-										<a href="//book.qidian.com/info/7098" target="_blank"
-											data-eid="qd_G30" data-bid="7098"><img class="lazy"
-											src="//qidian.gtimg.com/qd/images/common/default_book.5968b.png"
-											data-original="//qidian.qpic.cn/qdbimg/349573/7098/90"
-											alt="道缘儒仙">
-										</a>
-									</div>
-									<h4>
-										<a href="//book.qidian.com/info/7098" target="_blank"
-											title="道缘儒仙" data-eid="qd_G29" data-bid="7098">道缘儒仙</a>
-									</h4>
-									<p>98%的用户读过</p></li>
-
-								<li data-rid="3">
-									<div class="book-img" title="知北游">
-										<a href="//book.qidian.com/info/18636" target="_blank"
-											data-eid="qd_G30" data-bid="18636"><img class="lazy"
-											src="//qidian.gtimg.com/qd/images/common/default_book.5968b.png"
-											data-original="//qidian.qpic.cn/qdbimg/349573/18636/90"
-											alt="知北游">
-										</a>
-									</div>
-									<h4>
-										<a href="//book.qidian.com/info/18636" target="_blank"
-											title="知北游" data-eid="qd_G29" data-bid="18636">知北游</a>
-									</h4>
-									<p>86%的用户读过</p></li>
-
-								<li data-rid="4">
-									<div class="book-img" title="邪风曲">
-										<a href="//book.qidian.com/info/27372" target="_blank"
-											data-eid="qd_G30" data-bid="27372"><img class="lazy"
-											src="//qidian.gtimg.com/qd/images/common/default_book.5968b.png"
-											data-original="//qidian.qpic.cn/qdbimg/349573/27372/90"
-											alt="邪风曲">
-										</a>
-									</div>
-									<h4>
-										<a href="//book.qidian.com/info/27372" target="_blank"
-											title="邪风曲" data-eid="qd_G29" data-bid="27372">邪风曲</a>
-									</h4>
-									<p>89%的用户读过</p></li>
-
-								<li data-rid="5">
-									<div class="book-img" title="星峰传说">
-										<a href="//book.qidian.com/info/44173" target="_blank"
-											data-eid="qd_G30" data-bid="44173"><img class="lazy"
-											src="//qidian.gtimg.com/qd/images/common/default_book.5968b.png"
-											data-original="//qidian.qpic.cn/qdbimg/349573/44173/90"
-											alt="星峰传说">
-										</a>
-									</div>
-									<h4>
-										<a href="//book.qidian.com/info/44173" target="_blank"
-											title="星峰传说" data-eid="qd_G29" data-bid="44173">星峰传说</a>
-									</h4>
-									<p>93%的用户读过</p></li>
-
-								<li data-rid="6">
-									<div class="book-img" title="佛本是道">
-										<a href="//book.qidian.com/info/53234" target="_blank"
-											data-eid="qd_G30" data-bid="53234"><img class="lazy"
-											src="//qidian.gtimg.com/qd/images/common/default_book.5968b.png"
-											data-original="//qidian.qpic.cn/qdbimg/349573/53234/90"
-											alt="佛本是道">
-										</a>
-									</div>
-									<h4>
-										<a href="//book.qidian.com/info/53234" target="_blank"
-											title="佛本是道" data-eid="qd_G29" data-bid="53234">佛本是道</a>
-									</h4>
-									<p>92%的用户读过</p></li>
-
-							</ul>
-						</div>
-					</div>
-
 					<div class="user-commentWrap" data-l1="8">
 						<div class="user-comment-wrap book-friend">
 							<div class="comment-head cf">
@@ -703,45 +576,6 @@
 
 				</div>
 				<div class="right-wrap fr">
-
-					<div class="author-state mb10">
-						<div class="author-info">
-							<div class="info-wrap nobt" data-l1="9">
-								<div class="author-photo" id="authorId" data-authorid="4559666">
-									<a href="//my.qidian.com/author/4559666" target="_blank"
-										data-eid="qd_G38"> <img
-										src="//facepic.qidian.com/qd_face/349573/a4559666/0"> </a> <span
-										class="author">作家</span>
-
-								</div>
-								<p>
-									<a href="//my.qidian.com/author/4559666" target="_blank">温朗</a>
-
-									<a class="god-light lv0"
-										href="//my.qidian.com/author/light/4559666"
-										title="大神之光：已经有0人获得" target="_blank" data-eid="qd_G39"></a>
-
-								</p>
-
-							</div>
-							<div class="info-wrap" data-l1="9">
-								<ul class="work-state cf">
-									<li><span class="book"></span>
-										<p>作品总数</p> <em>1</em></li>
-									<li><span class="word"></span>
-										<p>累计字数</p> <em>1.1万</em></li>
-									<li><span class="coffee"></span>
-										<p>创作天数</p> <em>4</em></li>
-								</ul>
-							</div>
-
-
-
-						</div>
-					</div>
-
-
-
 					<div class="book-list-wrap mb10" data-l1="13">
 						<div class="strongrec-list">
 							<h3 class="wrap-title lang">
